@@ -1,0 +1,32 @@
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    color: #DEA54B
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    color: #DEA54B
+}
+
+.link{
+    font-family: 'Courier New', Courier, monospace;
+    color: #596F62;
+    font-weight: 501;
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 501;
+    color: #0D1F2D;
+
+}
+
+* {      
+    background-color: #f5f5f5;
+}
+
+.list{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 501;
+    color: #873D48;
+}
